@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PixabayRxJava</string>
+    <string name="search_label">Search</string>
+</resources>
